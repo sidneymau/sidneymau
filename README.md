@@ -8,3 +8,11 @@ My research focuses on using large cosmic surveys to learn about dark matter and
 - 🔭 I’m currently working on constraining different models of dark matter using the Milky Way satellite galaxy census.
 - 🌱 I’m currently learning how to take better care of plants.
 - 💬 Ask me about physics, coding, applying to schools, Chicago, how to engage with your community, or anything music related!
+
+Some software/tools I use:
+- macOS
+- Linux
+- Vim
+- LaTeX
+- Slack
+- Zoom
