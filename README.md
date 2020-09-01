@@ -12,7 +12,8 @@ My research focuses on using large cosmic surveys to learn about dark matter and
 Some software/tools I use:
 - macOS
 - Linux
-- Neovim/Vim
+- Vim
 - LaTeX
+- Overleaf
 - Slack
 - Zoom
