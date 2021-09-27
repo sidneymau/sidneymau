@@ -8,3 +8,5 @@ My research broadly involves using large cosmic surveys to study the properties 
 Most of my work is done as part of [DESC](https://lsstdesc.org/), [DELVE](https://delve-survey.github.io/), and [DES](https://www.darkenergysurvey.org/).
 
 You can usually find me fiddling with software, drinking tea, or road cycling.
+
+You can find my personal configuration files [here](https://github.com/sidneymau/dotfiles).
