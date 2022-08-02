@@ -1,4 +1,4 @@
-### about me
+## about me
 
 I am currently an NSF Graduate Research Fellow studying Physics at Stanford University.
 I graduated from the University of Chicago with a B.A. in Physics in 2020.
@@ -8,7 +8,7 @@ I work on shear estimation and PSFs to mitigate the impacts of systematic effect
 
 I am a member of [DESC](https://lsstdesc.org/), [DELVE](https://delve-survey.github.io/), and [DES](https://www.darkenergysurvey.org/).
 
-### publications
+## publications
 
 - [ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A%220000-0003-3519-4004%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 - [INSPIRE](https://inspirehep.net/author/profile/Sidney.D.Mau.1)
