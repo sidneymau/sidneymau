@@ -1,7 +1,9 @@
-## about me
+## education
 
-I am an NSF Graduate Research Fellow studying Physics at Stanford University advised by Professor Pat Burchat.
-I graduated from the University of Chicago with a B.A. in Physics in 2020.
+- Stanford University, Ph.D. Physics (expected 2025)
+- University of Chicago, B.A. Physics (2020)
+
+## projects
 
 I work on shear estimation and PSFs to mitigate the impacts of systematic effects on weak lensing measurements.
 I also search for ultra-faint satellite galaxies of the Milky Way and use their population statistcs to study dark matter.
