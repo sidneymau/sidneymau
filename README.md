@@ -1,6 +1,6 @@
 ## about me
 
-I am currently an NSF Graduate Research Fellow studying Physics at Stanford University advised by Professor Pat Burchat.
+I am an NSF Graduate Research Fellow studying Physics at Stanford University advised by Professor Pat Burchat.
 I graduated from the University of Chicago with a B.A. in Physics in 2020.
 
 I work on shear estimation and PSFs to mitigate the impacts of systematic effects on weak lensing measurements.
