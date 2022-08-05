@@ -5,8 +5,10 @@
 
 ## projects
 
-I work on shear estimation and PSFs to mitigate the impacts of systematic effects on weak lensing measurements.
-I also search for ultra-faint satellite galaxies of the Milky Way and use their population statistcs to study dark matter.
+- testing shear measurement calibration algorithms
+- quantifying the impact of PSF systematics on weak lensing measurements
+- constraining dark matter using Milky Way satellite statistics
+- searches for faint Milky Way satellites
 
 I am a member of [DESC](https://lsstdesc.org/), [DELVE](https://delve-survey.github.io/), and [DES](https://www.darkenergysurvey.org/).
 
