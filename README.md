@@ -5,8 +5,7 @@
 
 ## projects
 
-- testing shear measurement calibration algorithms
-- quantifying the impact of PSF systematics on weak lensing measurements
+- validation of shear measurement and calibration with respect to various systematics
 - constraining dark matter using Milky Way satellite statistics
 - searches for faint Milky Way satellites
 
