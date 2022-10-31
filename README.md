@@ -5,7 +5,7 @@
 
 ## projects
 
-- validation of shear measurement and calibration with respect to various systematics
+- validation of shear measurement and calibration for Rubin & LSST DESC
 - constraining dark matter using Milky Way satellite statistics
 - searches for faint Milky Way satellites
 
