@@ -9,7 +9,11 @@
 - constraining dark matter using Milky Way satellite statistics
 - searches for faint Milky Way satellites
 
-I am a member of [DESC](https://lsstdesc.org/), [DELVE](https://delve-survey.github.io/), and [DES](https://www.darkenergysurvey.org/).
+## collaborations
+
+- [DESC](https://lsstdesc.org/) (member)
+- [DELVE](https://delve-survey.github.io/) (builder)
+- [DES](https://www.darkenergysurvey.org/) (member)
 
 ## publications
 
