@@ -6,7 +6,7 @@
 ## projects
 
 - validation of shear measurement and calibration for Rubin & LSST DESC
-- cablibrating redshift-dependent shear biases in the presence of blending for DES Y6
+- image simulations for shear calibration for DES Y6
 - constraining dark matter using Milky Way satellite statistics
 - searches for faint Milky Way satellites
 
