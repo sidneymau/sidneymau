@@ -3,13 +3,6 @@
 - Stanford University, Ph.D. Physics (expected 2025)
 - University of Chicago, B.A. Physics (2020)
 
-## projects
-
-- validation of shear measurement and calibration for Rubin & LSST DESC
-- image simulations for shear calibration for DES Y6
-- constraining dark matter using Milky Way satellite statistics
-- searches for faint Milky Way satellites
-
 ## collaborations
 
 - [DESC](https://lsstdesc.org/) (full member)
