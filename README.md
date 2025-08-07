@@ -15,5 +15,3 @@
 - [INSPIRE](https://inspirehep.net/author/profile/Sidney.D.Mau.1)
 - [ORCID](http://orcid.org/0000-0003-3519-4004)
 - [Google Scholar](https://scholar.google.com/citations?user=fny486EAAAAJ&hl=en&oi=ao)
-
-See also: [codeberg.org/sidneymau](https://codeberg.org/sidneymau)
