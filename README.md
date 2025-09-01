@@ -1,6 +1,6 @@
 ## education
 
-- Stanford University, Ph.D. Physics (expected 2025)
+- Stanford University, Ph.D. Physics (2025)
 - University of Chicago, B.A. Physics (2020)
 
 ## collaborations
