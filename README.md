@@ -5,6 +5,7 @@
 
 ## collaborations
 
+- [Roman HLIS Cosmology PIT](https://roman-hlis-cosmology.caltech.edu/) (team member)
 - [DESC](https://lsstdesc.org/) (full member)
 - [DELVE](https://delve-survey.github.io/) (builder)
 - [DES](https://www.darkenergysurvey.org/) (member)
