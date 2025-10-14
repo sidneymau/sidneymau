@@ -1,3 +1,5 @@
+Postdoctoral associate in the [Duke Cosmology Group](https://cosmology.phy.duke.edu/)
+
 ## education
 
 - Stanford University, Ph.D. Physics (2025)
