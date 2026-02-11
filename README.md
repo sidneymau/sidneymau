@@ -23,4 +23,4 @@ Postdoctoral associate in the [Duke Cosmology Group](https://cosmology.phy.duke.
 
 - [dotfiles](https://github.com/sidneymau/dotfiles)
 - [bin](https://github.com/sidneymau/bin)
-- [tex](https://github.com/sidneymau/tex)
+- [texmf](https://github.com/sidneymau/texmf)
