@@ -8,7 +8,7 @@ Postdoctoral associate in the [Duke Cosmology Group](https://cosmology.phy.duke.
 ## collaborations
 
 - [Roman HLIS Cosmology PIT](https://roman-hlis-cosmology.caltech.edu/) (team member)
-- [LSST DESC](https://lsstdesc.org/) (full member)
+- [LSST DESC](https://lsstdesc.org/) (full member, PO co-conevner, CC co-chair)
 - [DELVE](https://delve-survey.github.io/) (builder)
 - [DES](https://www.darkenergysurvey.org/) (member)
 
