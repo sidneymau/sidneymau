@@ -14,7 +14,7 @@ Postdoctoral associate in the [Duke Cosmology Group](https://cosmology.phy.duke.
 
 ## publications
 
-- [SciX](https://scixplorer.org/search/?q=orcid%3A0000-0003-3519-4004) / [ADS](https://ui.adsabs.harvard.edu/search/?q=orcid%3A0000-0003-3519-4004)
+- [SciX](https://scixplorer.org/search/?q=orcid%3A0000-0003-3519-4004)
 - [INSPIRE](https://inspirehep.net/author/profile/Sidney.D.Mau.1)
 - [ORCID](http://orcid.org/0000-0003-3519-4004)
 - [Google Scholar](https://scholar.google.com/citations?user=fny486EAAAAJ&hl=en&oi=ao)
