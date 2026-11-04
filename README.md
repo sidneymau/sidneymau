@@ -1,18 +1,18 @@
 Postdoctoral associate in the [Duke Cosmology Group](https://cosmology.phy.duke.edu/)
 
-**education**
+**Education**
 
 - Stanford University, Ph.D. Physics (2025)
 - University of Chicago, B.A. Physics (2020)
 
-**collaborations**
+**Collaborations**
 
 - [Roman HLIS Cosmology PIT](https://roman-hlis-cosmology.caltech.edu/)
 - [LSST DESC](https://lsstdesc.org/)
 - [DELVE](https://delve-survey.github.io/)
 - [DES](https://www.darkenergysurvey.org/)
 
-**publications**
+**Publications**
 
 - [SciX](https://scixplorer.org/search/?q=orcid%3A0000-0003-3519-4004)
 - [INSPIRE](https://inspirehep.net/author/profile/Sidney.D.Mau.1)
@@ -20,7 +20,7 @@ Postdoctoral associate in the [Duke Cosmology Group](https://cosmology.phy.duke.
 - [Google Scholar](https://scholar.google.com/citations?user=fny486EAAAAJ&hl=en&oi=ao)
 - [arXiv](https://arxiv.org/search/astro-ph?searchtype=author&query=Mau,+S)
 
-**personal utilities**
+**Utilities**
 
 - [dotfiles](https://github.com/sidneymau/dotfiles)
 - [bin](https://github.com/sidneymau/bin)
